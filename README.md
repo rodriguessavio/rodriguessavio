@@ -1,4 +1,4 @@
-##Hello, I'm Sávio Rodrigues
+Hello, I'm Sávio Rodrigues
 
 - 🔭 I am currently looking for my first job
 - 🌱 I'm currently learning web development
