@@ -11,12 +11,7 @@ Hello, I'm Sávio Rodrigues
 
 <br>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Savio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Savio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Savio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Savio-image" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/0f/fa/49/0ffa49103ad801f255fcd16b78589bc6.jpg?width=676&height=676">
-</div>
+
 
 ##
 
