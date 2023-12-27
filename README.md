@@ -1,7 +1,6 @@
 <div align="center">
   <i>Atualmente trabalho com tecnologias focadas no desenvolvimento web, como Javascript, php, html e Css...<i>
     <br>
-  <i>Mas também estudo e tenho interesse de trabalhar no futuro com java...</i>
 </div>
 
 
